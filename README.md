@@ -1,6 +1,6 @@
 # PIDNet with RPEM
 ## Introduction
-This is the official repository for our recent work (in review).
+This is the official repository for our recent work (Zhou, G. C., Cheng, C., & Chen, Y. Z. (2024). Efficient multi-branch segmentation network for situation awareness in autonomous navigation. Ocean Engineering, 302, 117741.).
 ## Usage
 ### 0. Prepare the dataset
 * Follow the guide of [mmsegmentation](README_mmseg.md) to prepare the environment.
