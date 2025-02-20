@@ -1,6 +1,6 @@
 _base_ = [
-    '../../_base_/datasets/seasky.py',
-    '../../_base_/default_runtime.py'
+    '../_base_/datasets/seasky.py',
+    '../_base_/default_runtime.py'
 ]
 
 # The class_weight is borrowed from https://github.com/openseg-group/OCNet.pytorch/issues/14 # noqa
